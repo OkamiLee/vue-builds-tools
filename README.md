@@ -1,6 +1,7 @@
-# visual-editor
+# vue-builds-tools
 
-> A Vue.js project
+> A 基于vue开发的一套vue快速建站系统，需要配合node中间件使用。
+  目前已完成功能，组件拖拽生成vue组件包括（表单·表格·输入框·复选框·按钮等），可直接配置路由信息，调整组件关联关系，通过node服务动态生成vue项目。目前只支持element-ui！！！后续会一直更新。
 
 ## Build Setup
 
